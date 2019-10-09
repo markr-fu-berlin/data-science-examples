@@ -9,6 +9,6 @@ For general prerequisites please refer to [Prerequisites](../README.md).
 
 * [Machine Learning](machine_learning)
   * [Python](machine_learning/python):
-    * [Scikit-learn](mchine_learning/python/scikit-learn):
+    * [Scikit-learn](machine_learning/python/scikit-learn):
 * [Spatial Analysis](spatial-analysis)
   * [Visualizing Spatial Queries](spatial-analysis/visualizing_spatial_queries)
