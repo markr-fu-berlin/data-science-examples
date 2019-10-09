@@ -5,7 +5,8 @@ This repository contains a collection of examples and tutorials for Data Science
 
 ## What's inside:
 
-* [Tutorials](tutorials/README.md): Tutorials show a complete workflow on a realistic use case and data. 
+* [Tutorials](tutorials): Tutorials show a complete workflow on a realistic use case and data. 
+* [Examples](examples): Examples only show how to integrate a specific technology, but not a whole data science workflow with it. They, also might use artifical data instead of realistic data.
 
 ## Prerequisites:
 

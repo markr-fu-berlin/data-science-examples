@@ -7,6 +7,8 @@ For general prerequisites please refer to [Prerequisites](../README.md).
 
 ### Overview
 
-* [Python](python/README.md):
-  * [Scikit-learn](python/scikit-learn/README.md):
-    * [Classification](python/scikit-learn/classification.ipynb)
+* [Machine Learning]()
+  * [Python](python):
+    * [Scikit-learn](python/scikit-learn):
+* [Spatial Analysis](spatial-analysis)
+  * [Visualizing Spatial Queries](visualizing_spatial_queries)
