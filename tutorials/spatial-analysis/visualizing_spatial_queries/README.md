@@ -22,9 +22,12 @@ To run this demo a working [Jupyter notebook](https://jupyter.org/install) is re
 
 Download the following GeoJSON files in [geojsonfiles](geojsonfiles) folder:
 
-1. New York City Streets data:- https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nyc_street_data.geojson
-2. New York City Borough boundaries data:- https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nycboroughboundaries.geojson
-3. New York City Neighborhood boundaries data:- https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nycneighborhoods.geojson
+1. New York City Streets data:
+  - https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nyc_street_data.geojson
+2. New York City Borough boundaries data:
+  - https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nycboroughboundaries.geojson
+3. New York City Neighborhood boundaries data:
+  - https://storage.googleapis.com/exasol_data_science_examples_data/visualizing_spatial_queries/geojsonfiles/nycneighborhoods.geojson
 
 #### IPython-sql library
 
