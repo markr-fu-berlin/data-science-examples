@@ -11,4 +11,4 @@ For general prerequisites please refer to [Prerequisites](../README.md).
   * [Python](python):
     * [Scikit-learn](python/scikit-learn):
 * [Spatial Analysis](spatial-analysis)
-  * [Visualizing Spatial Queries](visualizing_spatial_queries)
+  * [Visualizing Spatial Queries](spatial-analysis/visualizing_spatial_queries)
