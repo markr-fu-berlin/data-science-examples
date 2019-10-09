@@ -9,4 +9,4 @@ This section contains tutorials for doing Spatial Analysis within the Exasol. We
   
 ### Prerequisites
 
-For general prerequisites please refer to [Prerequisites](../README.md). 
+For general prerequisites please refer to [Prerequisites](../../README.md). 
